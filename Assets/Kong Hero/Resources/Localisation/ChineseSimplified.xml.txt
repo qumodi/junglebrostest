@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample">例子</string>
+
+<string name="ControllerPC"> PC控制器</string>
+<string name="MoveLeftHelp">向左移动：左箭头或键盘上的A. </string>
+<string name="MoveRightHelp">向左移动：向右箭头，或键盘上的D. </string>
+<string name="JumpHelp">跳转：空格键或向上箭头</string> //帮助
+<string name="MeleeAttackHelp">攻击按钮：X </string>
+<string name="RangeAttackHelp"> 攻击按钮：F </string>
+
+
+<string name="LivesShop">寿命： </string>
+<string name="BuletsShop">墨盒： </string> // SHOP 
+<string name="CharacterSelection">角色选择： </string>
+<string name="CharacterName1">丛</string>
+<string name="CharacterName2">猎人</string>
+<string name="CharacterName3"> Sabziro </string>
+<string name="CharacterName4"> Patsyuk </string>
+<string name="CharacterStatePicked1">选</string>
+<string name="CharacterStateChoose1">选择</string>
+<string name="CharacterStateLocked"> 关闭 </string>
+<string name="EnoughtMoney">硬币不够！
+看广告来补充硬币。</string>
+<string name="Close">关闭 </string>
+
+<string name="World">世界</string>
+
+<string name="Pause">暂停</string>
+<string name="TapPlay">点击播放</string>
+<string name="LevelComplete">等级通行证</string>
+<string name="GamePause">游戏暂停</string>
+<string name="GameOver">游戏短缺</string>
+<string name="StartOver">重来</string>
+<string name="Loading">装载</string>
+
+
+
+
+<string name="TitleWorld">选择世界</string>
+<string name="WorldTitleText1">山丘</string>
+<string name="WorldTitleText2">地下</string>
+<string name="WorldTitleText3">天空</string>
+<string name="WorldTitleText4">冬季</string>
+<string name="WorldLockedText1">关闭了</string>
+<string name="WorldLockedText2">关闭了</string>
+<string name="WorldLockedText3">关闭了</string>
+<string name="WorldLockedText4">关闭了</string>
+<string name="LoadingMainScene">装载</string>
+
+
+
+<string name="QuitGame">你确定要退出游戏吗？</string>
+<string name="QuitMenu">你确定要去菜单吗？</string>
+<string name="RestartGame">你确定要重启吗？</string>
+<string name="YesConfirm">是</string>
+<string name="NoConfirm">没有</string>
+
+<string name="WorldChooseText">等级选择</string>
+
+<string name="Locked">锁定</string>
+
+</document>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample"> Beispiel </string>
+<string name="ControllerPC"> PC-Controller </string>
+<string name="MoveLeftHelp"> Nach links bewegen: Pfeil nach links oder A auf der Tastatur </string>
+<string name="MoveRightHelp">Nach rechts bewegen: Pfeil nach rechts oder D auf der Tastatur </string>
+<string name="JumpHelp"> Sprung: Leertaste oder aufwärtspfeil </string>
+<string name="MeleeAttackHelp">Nahkampfangriff Taste: X </string>
+<string name="RangeAttackHelp">Fernkampfangriff Taste: F</string>
+<string name="LivesShop"> Lebens: </string>
+<string name="BuletsShop"> Patronen: </string>
+<string name="CharacterSelection">Charakterauswahl:</string>
+<string name="CharacterName1"> Kong </string>
+<string name="CharacterName2"> Der jäger </string>
+<string name="CharacterName3">Kein Name</string>
+<string name="CharacterName4">Kein Name</string>
+<string name="CharacterStatePicked1"> Ausgewählt </string>
+<string name="CharacterStateChoose1"> Auswählen </string>
+<string name="CharacterStateLocked"> GESCHLOSSEN </string>
+<string name="EnoughtMoney">Nicht genug Münzen!
+Schauen Sie sich die Anzeigen an, um Münzen aufzufüllen.</string>
+<string name="Close">Schließen </string>
+<string name="World"> Welt </string>
+<string name="Pause"> Pause </string>
+<string name="TapPlay"> Klicken Sie, um zu spielen </string>
+<string name="LevelComplete">Level  ist bestanden</string>
+<string name="GamePause"> Spiel pause </string>
+<string name="GameOver">Spiel ist beendet</string>
+<string name="StartOver">Von vorn anfangen</string>
+<string name="Loading">Ladung</string>
+<string name="TitleWorld"> Wählen Sie dieWelt </string>
+<string name="WorldTitleText1"> Die Hügel </string>
+<string name="WorldTitleText2">unterirdishes Gewölbe</string>
+<string name="WorldTitleText3"> Himmel </string>
+<string name="WorldTitleText4"> Winter </string>
+<string name="WorldLockedText1">Geschlossen </string>
+<string name="WorldLockedText2">Geschlossen </string>
+<string name="WorldLockedText3">Geschlossen </string>
+<string name="WorldLockedText4">Geschlossen </string>
+<string name="LoadingMainScene">Ladung</string>
+<string name="QuitGame">Möchten Sie das Spiel wirklich beenden?</string>
+<string name="QuitMenu">Möchten Sie wirklich zum Menü gehen?</string>
+<string name="RestartGame">Sind Sie sicher, dass Sie neu Spiel starten möchten?</string>
+<string name="YesConfirm">Ja</string>
+<string name="NoConfirm">Nein</string>
+<string name="WorldChooseText">Levelauswahl</string>
+<string name="Locked">Verschlossen</string>
+</document>

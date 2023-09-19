@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample"> örnek </string>
+
+<string name="ControllerPC"> PC denetleyicisi </string>
+<string name="MoveLeftHelp"> Sola git: Sol ok veya klavyede A </string>
+<string name="MoveRightHelp"> Sola Git: Sağ Ok veya Klavyede D </string>
+<string name="JumpHelp"> Atla: Boşluk Çubuğu veya Yukarı Ok </string> // YARDIM 
+<string name="MeleeAttackHelp"> Saldırı düğmesi: X </string>
+<string name="RangeAttackHelp"> Dalyanaya saldırı düğmesi: F </string>
+
+
+<string name="LivesShop"> Omrü: </string>
+<string name="BuletsShop"> Kartuşları: </string> // MAĞAZA 
+<string name="CharacterSelection"> Karakter seçimi: </string>
+<string name="CharacterName1"> Cong </string>
+<string name="CharacterName2"> Avcı </string>
+<string name="CharacterName3"> Sabziro </string>
+<string name="CharacterName4"> Patsyuk </string>
+<string name="CharacterStatePicked1"> Seçilmiş </string>
+<string name="CharacterStateChoose1"> Seçmek </string>
+<string name="CharacterStateLocked"> Kapalı </string>
+<string name="EnoughtMoney">Yeterli para yok!
+Bozuk para doldurmak için reklamlara bakın.</string>
+<string name="Close">Yakın </string>
+
+<string name="World"> Dünya </string>
+
+<string name="Pause"> Durma </string>
+<string name="TapPlay"> Oynamak için tıklayın </string>
+<string name="LevelComplete"> Seviye geçiş </string>
+<string name="GamePause"> Oyun duraklat </string>
+<string name="GameOver"> Oyun kısa </string>
+<string name="StartOver">Baştan başlamak</string>
+<string name="Loading"> Yükleme </string>
+
+
+
+
+<string name="TitleWorld"> Dünyayı seç </string>
+<string name="WorldTitleText1"> Tepeler </string>
+<string name="WorldTitleText2"> Yeraltı </string>
+<string name="WorldTitleText3"> Gökyüzü </string>
+<string name="WorldTitleText4"> Kış </string>
+<string name="WorldLockedText1"> Kapalı </string>
+<string name="WorldLockedText2"> Kapalı </string>
+<string name="WorldLockedText3"> Kapalı </string>
+<string name="WorldLockedText4"> Kapalı </string>
+<string name="LoadingMainScene"> yükleme </string>
+
+
+
+<string name="QuitGame">Oyundan çıkmak istediğinize emin misiniz?</string>
+<string name="QuitMenu">Menüye gitmek istediğinize emin misiniz?</string>
+<string name="RestartGame">Yeniden başlatmak istediğinize emin misiniz?</string>
+<string name="YesConfirm">Evet</string>
+<string name="NoConfirm">Yok hayır</string>
+
+<string name="WorldChooseText">Seviye seçimi</string>
+
+<string name="Locked">Kilitli</string>
+
+</document>

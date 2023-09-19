@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample">Sample</string>
+<string name="ControllerPC">PC-Controller</string>
+<string name="MoveLeftHelp">Move left:  Left Arrow or A on the keyboard</string>
+<string name="MoveRightHelp">Move right: Right Arrow or D on the keyboard</string>
+<string name="JumpHelp">Jump: Space or Up Arrow</string>
+<string name="MeleeAttackHelp">Melee attack: X</string>
+<string name="RangeAttackHelp">Range attack: F</string>
+<string name="LivesShop">LIVES: </string>
+<string name="BuletsShop">Сartridges</string>
+<string name="CharacterSelection">Character selection: </string>
+<string name="CharacterName1">Kong</string>
+<string name="CharacterName2">Hunter</string>
+<string name="CharacterName3">NoName</string>
+<string name="CharacterName4">NoName</string>
+<string name="CharacterStatePicked1">Chosen</string>
+<string name="CharacterStateChoose1">Choose</string>
+<string name="CharacterStateLocked">Closed</string>
+<string name="EnoughtMoney">Not enough coins!
+Review the ads to replenish coins.</string>
+<string name="Close">Close </string>
+<string name="World">World</string>
+<string name="Pause">Pause</string>
+<string name="TapPlay">Tap to play</string>
+<string name="LevelComplete">Level completed</string>
+<string name="GamePause">Game pause</string>
+<string name="GameOver">Game over</string>
+<string name="StartOver">Start over</string>
+<string name="Loading">Loading</string>
+<string name="TitleWorld">Choose the world</string>
+<string name="WorldTitleText1">Hills</string>
+<string name="WorldTitleText2">Underground</string>
+<string name="WorldTitleText3">Sky</string>
+<string name="WorldTitleText4">Winter</string>
+<string name="WorldLockedText1">Closed</string>
+<string name="WorldLockedText2">Closed</string>
+<string name="WorldLockedText3">Closed</string>
+<string name="WorldLockedText4">Closed</string>
+<string name="LoadingMainScene">Loading</string>
+<string name="QuitGame">Are you sure you want to quit the game?</string>
+<string name="QuitMenu">Are you sure you want to go to the menu?</string>
+<string name="RestartGame">Are you sure you want to restart?</string>
+<string name="YesConfirm">Yes</string>
+<string name="NoConfirm">No</string>
+<string name="WorldChooseText">Level selection</string>
+<string name="Locked">Locked</string>
+</document>

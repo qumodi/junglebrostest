@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample"> مثال </string>
+
+<string name="ControllerPC"> تحكم الكمبيوتر </string>
+<string name="MoveLeftHelp"> تحريك لليسار: سهم لليسار ، أو A على لوحة المفاتيح </string>
+<string name="MoveRightHelp"> تحريك إلى اليسار: السهم الأيمن ، أو D على لوحة المفاتيح </string>
+<string name="JumpHelp"> الانتقال السريع: مفتاح المسافة أو سهم لأعلى </string> // مساعدة 
+<string name="MeleeAttackHelp"> زر الهجوم: X </string>
+<string name="RangeAttackHelp"> زر الهجوم Dalyanaya: F </string>
+
+
+<string name="LivesShop"> الحياة: </string>
+<string name="BuletsShop"> خراطيش: </string> // SHOP 
+<string name="CharacterSelection"> اختيار الحروف: </string>
+<string name="CharacterName1"> كونغ </string>
+<string name="CharacterName2"> الصياد </string>
+<string name="CharacterName3"> Sabziro </string>
+<string name="CharacterName4"> Patsyuk </string>
+<string name="CharacterStatePicked1"> مختار </string>
+<string name="CharacterStateChoose1"> حدد </string>
+<string name="CharacterStateLocked"> مغلق </string>
+<string name="EnoughtMoney">لا تكفي العملات!
+انظر إلى الإعلانات لتجديد العملات المعدنية.</string>
+<string name="Close">قريب </string>
+
+<string name="World"> عالم </string>
+
+<string name="Pause"> وقفة </string>
+<string name="TapPlay"> انقر للعب </string>
+<string name="LevelComplete"> مستوى الممر </string>
+<string name="GamePause"> لعبة وقفة </string>
+<string name="GameOver"> لعبة اختصار </string>
+<string name="StartOver">ابدأ من جديد</string>
+<string name="Loading"> تحميل </string>
+
+
+
+
+<string name="TitleWorld"> اختر العالم </string>
+<string name="WorldTitleText1"> التلال </string>
+<string name="WorldTitleText2"> تحت أرضي </string>
+<string name="WorldTitleText3"> السماء </string>
+<string name="WorldTitleText4"> شتاء </string>
+<string name="WorldLockedText1"> مغلق </string>
+<string name="WorldLockedText2"> مغلق </string>
+<string name="WorldLockedText3"> مغلق </string>
+<string name="WorldLockedText4"> مغلق </string>
+<string name="LoadingMainScene"> تحميل </string>
+
+
+
+<string name="QuitGame">هل أنت متأكد من أنك تريد الإقلاع؟</string>
+<string name="QuitMenu">هل أنت متأكد من أنك تريد الوصول إلى القائمة؟</string>
+<string name="RestartGame">هل أنت متأكد من أنك تريد أن تبدأ من جديد؟</string>
+<string name="YesConfirm">نعم</string>
+<string name="NoConfirm">مرحبا</string>
+
+<string name="WorldChooseText">مستوى حدد</string>
+
+<string name="Locked">مقفل</string>
+
+</document>

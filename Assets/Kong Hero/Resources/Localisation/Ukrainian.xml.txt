@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample"> приклад </string>
+
+<string name="ControllerPC"> Контролер ПК </string>
+<string name="MoveLeftHelp"> Рух вліво: стрілка вліво, або А на клавіатурі </string>
+<string name="MoveRightHelp">  Рух вправо: стрілка вправо, або D на клавіатурі  </string>
+<string name="JumpHelp"> Стрибок: Пропуск, або стрілка вгору </string> // HELP 
+<string name="MeleeAttackHelp">  Ближня атака: кнопка X </string>
+<string name="RangeAttackHelp"> Дальня атака: кнопка F </string>
+
+
+<string name="LivesShop"> Життя: </string>
+<string name="BuletsShop"> Патрони: </string> // SHOP 
+<string name="CharacterSelection"> Вибір персонажа: </string>
+<string name="CharacterName1"> Конг </string>
+<string name="CharacterName2"> Мисливець </string>
+<string name="CharacterName3"> Сабзіро </string>
+<string name="CharacterName4"> Пацюк </string>
+<string name="CharacterStatePicked1"> Обрано </string>
+<string name="CharacterStateChoose1"> Вибрати </string>
+<string name="CharacterStateLocked"> Закритий </string>
+<string name="EnoughtMoney">Недостатньо монет!
+Подивіться рекламу щоб поповнити монети.</string>
+<string name="Close">Закрити </string>
+
+<string name="World"> Світ </string>
+
+<string name="Pause"> Пауза </string>
+<string name="TapPlay"> Клікніть що б грати </string>
+<string name="LevelComplete"> Рівень пройдений </string>
+<string name="GamePause"> Ігрова пауза </string>
+<string name="GameOver"> Гра закінчена </string>
+<string name="StartOver">Почати з початку</string>
+<string name="Loading"> Завантаження </string>
+
+
+
+
+<string name="TitleWorld"> Виберіть світ </string>
+<string name="WorldTitleText1"> Пагорби </string>
+<string name="WorldTitleText2"> Підземелля </string>
+<string name="WorldTitleText3"> Небо </string>
+<string name="WorldTitleText4"> Зима </string>
+<string name="WorldLockedText1"> Заблоковано </string>
+<string name="WorldLockedText2"> Заблоковано </string>
+<string name="WorldLockedText3"> Заблоковано </string>
+<string name="WorldLockedText4"> Заблоковано </string>
+<string name="LoadingMainScene"> Завантаження </string>
+
+
+
+<string name="QuitGame">Ви впевненi,що хочете вийти з гри?</string>
+<string name="QuitMenu">Ви впевненi,що хочете вийти в меню?</string>
+<string name="RestartGame">Ви впевненi,що хочете розпочати знову?</string>
+<string name="YesConfirm">Так</string>
+<string name="NoConfirm">Нi</string>
+
+<string name="WorldChooseText">Вибір рівня</string>
+
+<string name="Locked">Заблоковано</string>
+
+</document>

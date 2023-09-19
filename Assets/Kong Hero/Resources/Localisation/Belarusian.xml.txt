@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample">Пример</string>
+<string name="ControllerPC">Контроллер ПК</string>
+<string name="MoveLeftHelp">Движение влево: стрелка влево, или А на клавиатуре</string>
+<string name="MoveRightHelp">Движение вправо: стрелка вправо, или D на клавиатуре</string>
+<string name="JumpHelp">Прыжок:Пробел, или стрелка вверх</string>
+<string name="MeleeAttackHelp">Ближняя атака кнопка: X</string>
+<string name="RangeAttackHelp">Дальняя атака кнопка: F</string>
+<string name="LivesShop">Жизнь: </string>
+<string name="BuletsShop">Патроны: </string>
+<string name="CharacterSelection">Выбор персонажа: </string>
+<string name="CharacterName1">Конг</string>
+<string name="CharacterName2">Охотник</string>
+<string name="CharacterName3">Без имени</string>
+<string name="CharacterName4">Без имени</string>
+<string name="CharacterStatePicked1">Выбран</string>
+<string name="CharacterStateChoose1">Выбрать</string>
+<string name="CharacterStateLocked">Закрыто</string>
+<string name="EnoughtMoney">Недостаточно монет!
+Посмотрите рекламу чтобы пополнить монеты.</string>
+<string name="Close">Закрыть </string>
+<string name="World">Мир</string>
+<string name="Pause">Пауза</string>
+<string name="TapPlay">Кликните чтобы играть</string>
+<string name="LevelComplete">Уровень пройден</string>
+<string name="GamePause">Игровая пауза</string>
+<string name="GameOver">Игра окончена</string>
+<string name="StartOver">Начать сначала</string>
+<string name="Loading">Загрузка</string>
+<string name="TitleWorld">Выберите мир</string>
+<string name="WorldTitleText1">Холмы</string>
+<string name="WorldTitleText2">Подземелье</string>
+<string name="WorldTitleText3">Небо</string>
+<string name="WorldTitleText4">Зима</string>
+<string name="WorldLockedText1">Закрыто</string>
+<string name="WorldLockedText2">Закрыто</string>
+<string name="WorldLockedText3">Закрыто</string>
+<string name="WorldLockedText4">Закрыто</string>
+<string name="LoadingMainScene">Загрузка</string>
+<string name="QuitGame">Вы уверены,что хотите выйти из игры?</string>
+<string name="QuitMenu">Вы уверены,что хотите выйти в меню?</string>
+<string name="RestartGame">Вы уверены,что хотите перезапустить?</string>
+<string name="YesConfirm">Да</string>
+<string name="NoConfirm">Нет</string>
+<string name="WorldChooseText">Выбор уровня</string>
+<string name="Locked">Закрыто</string>
+</document>

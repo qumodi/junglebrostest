@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<string name="sample"> مثال </string>
+
+<string name="ControllerPC"> پی سی کنٹرولر </string>
+<string name="MoveLeftHelp"> بائیں منتقل کریں: بائیں تیر، یا A کی بورڈ پر </string>
+<string name="MoveRightHelp"> بائیں منتقل کریں: دائیں تیر، یا ڈی کی بورڈ پر </string>
+<string name="JumpHelp"> چھلانگ: خلائی بار، یا اوپر تیر </string> // مدد 
+<string name="MeleeAttackHelp"> حملہ آور بٹن: ایکس </string>
+<string name="RangeAttackHelp"> دالانیاہ حملے کے بٹن: ایف </string>
+
+
+<string name="LivesShop"> زندگی: </string>
+<string name="BuletsShop"> کارٹریجز: </string> // SHOP 
+<string name="CharacterSelection"> کریکٹر انتخاب: </string>
+<string name="CharacterName1"> کانگ </string>
+<string name="CharacterName2"> شکاری </string>
+<string name="CharacterName3"> سبزیرو </string>
+<string name="CharacterName4"> Patsyuk </string>
+<string name="CharacterStatePicked1"> منتخب کردہ </string>
+<string name="CharacterStateChoose1"> منتخب کریں </string>
+<string name="CharacterStateLocked"> بند </string>
+<string name="EnoughtMoney">کافی سککوں نہیں!
+سککوں کو بھرنے کے لئے اشتہارات دیکھیں.</string>
+<string name="Close">بند کریں </string>
+
+<string name="World"> دنیا </string>
+
+<string name="Pause"> روک دو </string>
+<string name="TapPlay"> کھیلنے کے لئے کلک کریں </string>
+<string name="LevelComplete"> سطح پاس </string>
+<string name="GamePause"> کھیل ہی کھیل میں روکنا </string>
+<string name="GameOver"> کھیل ہی کھیل میں مختصر </string>
+<string name="StartOver">پھر سے شروع</string>
+<string name="Loading"> لوڈ کر رہا ہے </string>
+
+
+
+
+<string name="TitleWorld"> دنیا کا انتخاب کریں </string>
+<string name="WorldTitleText1"> پہاڑیوں </string>
+<string name="WorldTitleText2"> زیر زمین </string>
+<string name="WorldTitleText3"> آسمان </string>
+<string name="WorldTitleText4"> موسم سرما </string>
+<string name="WorldLockedText1"> بند ہے </string>
+<string name="WorldLockedText2"> بند ہے </string>
+<string name="WorldLockedText3"> بند ہے </string>
+<string name="WorldLockedText4"> بند ہے </string>
+<string name="LoadingMainScene"> لوڈ کر رہا ہے </string>
+
+
+
+<string name="QuitGame">کیا آپ واقعی اس کھیل کو چھوڑنا چاہتے ہیں؟</string>
+<string name="QuitMenu">کیا آپ واقعی مینو میں جانا چاہتے ہیں؟</string>
+<string name="RestartGame">کیا آپ واقعی دوبارہ شروع کرنا چاہتے ہیں؟</string>
+<string name="YesConfirm">جی ہاں</string>
+<string name="NoConfirm">نہیں</string>
+
+<string name="WorldChooseText">سطح منتخب کریں</string>
+
+<string name="Locked">بند</string>
+
+</document>
