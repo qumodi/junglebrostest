@@ -38,6 +38,7 @@ public class SoundManager : MonoBehaviour {
 		musicAudio = gameObject.AddComponent<AudioSource> ();
 		musicAudio.loop = true;
 		musicAudio.volume = 0.5f;
+		musicAudio.playOnAwake = false;
 		soundFx = gameObject.AddComponent<AudioSource> ();
 	}
 	void Start () {
@@ -73,7 +74,7 @@ public class SoundManager : MonoBehaviour {
 
 		if (audioOut == musicAudio) {
 			audioOut.clip = clip;
-			audioOut.Play ();
+			audioOut.Play();
 		} else
 			audioOut.PlayOneShot (clip, SoundVolume);
 	}
@@ -85,8 +86,9 @@ public class SoundManager : MonoBehaviour {
 		}
 
 		if (audioOut == musicAudio) {
+            Debug.Log("Playing music", gameObject);
 			audioOut.clip = clip;
-			audioOut.Play ();
+            audioOut.Play();
 		} else
 			audioOut.PlayOneShot (clip, SoundVolume * volume);
 	}

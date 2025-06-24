@@ -73,11 +73,13 @@ public class MenuManager : MonoBehaviour
         SoundManager.PlaySfx(SoundManager.Instance.soundClick);
         if (Time.timeScale == 0)
         {
+            Time.timeScale = 1f;
             GamePause.SetActive(false);
             GUI.SetActive(true);
         }
         else
         {
+            Time.timeScale = 0f;
             GamePause.SetActive(true);
             GUI.SetActive(false);
         }

@@ -16,7 +16,7 @@ public class MainMenu_StartMenu : MonoBehaviour
     {
         soundManager = SoundManager.Instance;
         setSound(PlayerPrefs.GetInt("soundOn", 1) == 1);
-        AudioListener.volume = 0;
+        AudioListener.volume = 1;
     }
 
 

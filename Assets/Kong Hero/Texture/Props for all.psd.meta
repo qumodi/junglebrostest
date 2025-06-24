@@ -246,7 +246,7 @@ TextureImporter:
       213: 21300160
     second: Bridge 3
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -263,10 +263,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -305,6 +307,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -316,6 +320,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -1822,9 +1866,80 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Banana: 21300154
+      Block Dirt: 21300134
+      Block Dirt 1: 21300142
+      Block Dirt 2: 21300144
+      Block Dirt 3: 21300146
+      Block Dirt 4: 21300148
+      Block Random Broken 1: 21300156
+      Block Random Broken 2: 21300002
+      Block Random Broken 3: 21300006
+      Block Random Broken 4: 21300004
+      Box Metal: 21300076
+      Box Random: 21300074
+      Box Wooden: 21300078
+      Bridge 1: 21300010
+      Bridge 2: 21300158
+      Bridge 3: 21300160
+      Bridge single: 21300012
+      Check Point: 21300062
+      Monster-Bird-Body: 21300068
+      Monster-Bird-Wing.L: 21300080
+      Monster-Bird-Wing.R: 21300082
+      Monster-Fish1-Body: 21300084
+      Monster-Fish1-Tail: 21300150
+      Monster-Fish1-Wing: 21300094
+      Monster-Pipe-Body: 21300104
+      Monster-Pipe-Sting.L: 21300090
+      Monster-Pipe-Sting.R: 21300092
+      Peach: 21300000
+      Pipe Blue-Body: 21300152
+      Pipe Blue-Top: 21300052
+      Platform Moving: 21300066
+      Props for all_13: 21300026
+      Props for all_18: 21300138
+      Props for all_19: 21300140
+      Props for all_25: 21300036
+      Props for all_32: 21300038
+      Props for all_33: 21300040
+      Props for all_34: 21300042
+      Props for all_35: 21300044
+      Props for all_36: 21300046
+      Props for all_38: 21300050
+      Props for all_4: 21300008
+      Props for all_40: 21300054
+      Props for all_41: 21300056
+      Props for all_42: 21300058
+      Props for all_43: 21300060
+      Props for all_48: 21300070
+      Props for all_49: 21300072
+      Props for all_56: 21300086
+      Props for all_57: 21300088
+      Props for all_6: 21300136
+      Props for all_61: 21300096
+      Props for all_62: 21300098
+      Props for all_64: 21300102
+      Props for all_66: 21300106
+      Props for all_67: 21300108
+      Props for all_68: 21300110
+      Props for all_69: 21300112
+      Props for all_70: 21300114
+      Props for all_71: 21300116
+      Props for all_76: 21300126
+      Props for all_77: 21300128
+      Props for all_78: 21300130
+      Props for all_79: 21300132
+      Props for all_9: 21300018
+      Saw: 21300048
+      Spike: 21300118
+      Spring 1: 21300120
+      Spring 2: 21300122
+      Spring 3: 21300124
+      WoodenBody: 21300100
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 1
-  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
