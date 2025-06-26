@@ -31,18 +31,21 @@ public class MainMenu_StartMenu : MonoBehaviour
     private void setSound(bool sound)
     {
         SoundManager.PlaySfx(soundManager.soundClick);
-        boolSoundOn = !boolSoundOn;
 
         if (sound)
         {
             soundImage.sprite = soundOn;
             PlayerPrefs.SetInt("soundOn", 1);
+            AudioListener.volume = 1;
         }
-
         else
         {
             soundImage.sprite = soundOff;
             PlayerPrefs.SetInt("soundOn", 0);
+            AudioListener.volume = 0;
         }
+
+        boolSoundOn = sound;
+
     }
 }
